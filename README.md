@@ -14,6 +14,7 @@ This is a scaled back version of our bot with no database functionality. We high
 This is a standalone bot that can be implemented in any server and configurable by a single file. The bot aims to make minting easy for the regular user in a fun way; straight from discord! There are some kinks such as paid networks - but free networks this can help with community interaction, have folks come just to make a mint of their dog, house, photo in spain, whatever. 
 
 /mint `title` `description` `method` `network` `recipient` `image` 
+
 **Standard Paramaters:**
 - `title`: title of the nft
 - `description`: description of the nft
