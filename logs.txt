@@ -1,0 +1,84 @@
+created by ether0
+[Sun, 17 Jul 2022 03:17:26 GMT] - [firebase] connected | AppID: 1:89306334861:web:e7ab7cef76bf835a0984c4
+[Sun, 17 Jul 2022 03:17:26 GMT] - [discord] registering (mint) as a (/) command
+[Sun, 17 Jul 2022 03:17:27 GMT] - [discord] logged in as discord bot: CrossMint Mintoooor (982748895480279040)
+[Sun, 17 Jul 2022 03:17:27 GMT] - [discord] started refreshing application (/) commands on guild 919325863043014686.
+[Sun, 17 Jul 2022 03:17:27 GMT] - [discord] started refreshing application (/) commands on guild 986598787185258537.
+[Sun, 17 Jul 2022 03:17:27 GMT] - [discord] successfully reloaded application (/) commands. 919325863043014686
+[Sun, 17 Jul 2022 03:17:27 GMT] - [discord] successfully reloaded application (/) commands. 986598787185258537
+[Sun, 17 Jul 2022 03:18:27 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: cyrScIUoUBdmOZOoXVSy
+[Sun, 17 Jul 2022 03:18:37 GMT] - [firebase] updated information for firebase ID cyrScIUoUBdmOZOoXVSy. 
+[Sun, 17 Jul 2022 03:22:12 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: kKyp3n03QDCvHVHIE6ZA
+[Sun, 17 Jul 2022 03:22:17 GMT] - [firebase] updated information for firebase ID kKyp3n03QDCvHVHIE6ZA. 
+[Sun, 17 Jul 2022 03:24:31 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: y48G3mnZ4V5deZaX8lXt
+[Sun, 17 Jul 2022 03:24:41 GMT] - [firebase] updated information for firebase ID y48G3mnZ4V5deZaX8lXt. 
+[Sun, 17 Jul 2022 13:30:43 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: V0bZSdV0FE60LMDRTdZI
+[Sun, 17 Jul 2022 13:31:05 GMT] - [firebase] updated information for firebase ID V0bZSdV0FE60LMDRTdZI. 
+[Sun, 17 Jul 2022 15:35:03 GMT] - [firebase] connected | AppID: 1:89306334861:web:e7ab7cef76bf835a0984c4
+[Sun, 17 Jul 2022 15:35:03 GMT] - [discord] registering (mint) as a (/) command
+[Sun, 17 Jul 2022 15:35:04 GMT] - [discord] logged in as discord bot: CrossMint Mintoooor (982748895480279040)
+[Sun, 17 Jul 2022 15:35:04 GMT] - [discord] started refreshing application (/) commands on guild 919325863043014686.
+[Sun, 17 Jul 2022 15:35:04 GMT] - [discord] started refreshing application (/) commands on guild 986598787185258537.
+[Sun, 17 Jul 2022 15:35:04 GMT] - [discord] successfully reloaded application (/) commands. 919325863043014686
+[Sun, 17 Jul 2022 15:35:04 GMT] - [discord] successfully reloaded application (/) commands. 986598787185258537
+[Sun, 17 Jul 2022 15:35:52 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: SUeylWvnNHgsecj86awx
+[Sun, 17 Jul 2022 15:36:03 GMT] - [firebase] updated information for firebase ID SUeylWvnNHgsecj86awx. 
+[Sun, 17 Jul 2022 15:43:29 GMT] - [firebase] connected | AppID: 1:89306334861:web:e7ab7cef76bf835a0984c4
+[Sun, 17 Jul 2022 15:43:55 GMT] - [firebase] connected | AppID: 1:89306334861:web:e7ab7cef76bf835a0984c4
+[Sun, 17 Jul 2022 15:43:55 GMT] - [discord] registering (mint) as a (/) command
+[Sun, 17 Jul 2022 15:43:56 GMT] - [discord] logged in as discord bot: CrossMint Minting API (982748895480279040)
+[Sun, 17 Jul 2022 15:43:56 GMT] - [discord] started refreshing application (/) commands on guild 919325863043014686.
+[Sun, 17 Jul 2022 15:43:56 GMT] - [discord] started refreshing application (/) commands on guild 986598787185258537.
+[Sun, 17 Jul 2022 15:43:56 GMT] - [discord] successfully reloaded application (/) commands. 919325863043014686
+[Sun, 17 Jul 2022 15:43:56 GMT] - [discord] successfully reloaded application (/) commands. 986598787185258537
+[Sun, 17 Jul 2022 15:45:06 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: KjtWzlpE4MnUNmuzaLCA
+[Sun, 17 Jul 2022 15:45:22 GMT] - [firebase] updated information for firebase ID KjtWzlpE4MnUNmuzaLCA. 
+[Sun, 17 Jul 2022 15:48:02 GMT] - [firebase] connected | AppID: 1:89306334861:web:e7ab7cef76bf835a0984c4
+[Sun, 17 Jul 2022 15:48:03 GMT] - [discord] registering (mint) as a (/) command
+[Sun, 17 Jul 2022 15:48:03 GMT] - [discord] logged in as discord bot: CrossMint Minting API (982748895480279040)
+[Sun, 17 Jul 2022 15:48:03 GMT] - [discord] started refreshing application (/) commands on guild 919325863043014686.
+[Sun, 17 Jul 2022 15:48:03 GMT] - [discord] started refreshing application (/) commands on guild 986598787185258537.
+[Sun, 17 Jul 2022 15:48:03 GMT] - [discord] successfully reloaded application (/) commands. 919325863043014686
+[Sun, 17 Jul 2022 15:48:03 GMT] - [discord] successfully reloaded application (/) commands. 986598787185258537
+[Sun, 17 Jul 2022 15:49:04 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: Xk5faC0lzzQchKojMAYK
+[Sun, 17 Jul 2022 15:49:25 GMT] - [firebase] updated information for firebase ID Xk5faC0lzzQchKojMAYK. 
+[Sun, 17 Jul 2022 15:51:52 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: tNuuRBJ4vb2JOJxQGD1W
+[Sun, 17 Jul 2022 15:52:13 GMT] - [firebase] updated information for firebase ID tNuuRBJ4vb2JOJxQGD1W. 
+[Sun, 17 Jul 2022 15:55:22 GMT] - [firebase] connected | AppID: 1:89306334861:web:e7ab7cef76bf835a0984c4
+[Sun, 17 Jul 2022 15:55:22 GMT] - [discord] registering (mint) as a (/) command
+[Sun, 17 Jul 2022 15:55:23 GMT] - [discord] logged in as discord bot: CrossMint Minting API (982748895480279040)
+[Sun, 17 Jul 2022 15:55:23 GMT] - [discord] started refreshing application (/) commands on guild 919325863043014686.
+[Sun, 17 Jul 2022 15:55:23 GMT] - [discord] started refreshing application (/) commands on guild 986598787185258537.
+[Sun, 17 Jul 2022 15:55:23 GMT] - [discord] successfully reloaded application (/) commands. 919325863043014686
+[Sun, 17 Jul 2022 15:55:23 GMT] - [discord] successfully reloaded application (/) commands. 986598787185258537
+[Sun, 17 Jul 2022 15:56:32 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: AScBKoRC3KQ1rHkN1DWS
+[Sun, 17 Jul 2022 15:56:53 GMT] - [firebase] updated information for firebase ID AScBKoRC3KQ1rHkN1DWS. 
+[Sun, 17 Jul 2022 16:00:18 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: EMNHqxeBcdtKulXKgWFJ
+[Sun, 17 Jul 2022 16:00:29 GMT] - [firebase] updated information for firebase ID EMNHqxeBcdtKulXKgWFJ. 
+[Sun, 17 Jul 2022 16:23:25 GMT] - [firebase] connected | AppID: 1:89306334861:web:e7ab7cef76bf835a0984c4
+[Sun, 17 Jul 2022 16:23:25 GMT] - [discord] registering (mint) as a (/) command
+[Sun, 17 Jul 2022 16:23:26 GMT] - [discord] logged in as discord bot: CrossMint Minting API (982748895480279040)
+[Sun, 17 Jul 2022 16:23:26 GMT] - [discord] started refreshing application (/) commands on guild 919325863043014686.
+[Sun, 17 Jul 2022 16:23:26 GMT] - [discord] started refreshing application (/) commands on guild 986598787185258537.
+[Sun, 17 Jul 2022 16:23:26 GMT] - [discord] successfully reloaded application (/) commands. 919325863043014686
+[Sun, 17 Jul 2022 16:23:26 GMT] - [discord] successfully reloaded application (/) commands. 986598787185258537
+[Sun, 17 Jul 2022 16:23:48 GMT] - [discord] (/) processing a mint initiated from undefined | 863940068091625482
+[Sun, 17 Jul 2022 16:23:52 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: 4HWQ7oXOHSz7ZBLooqjd
+[Sun, 17 Jul 2022 16:24:08 GMT] - [firebase] updated information for firebase ID 4HWQ7oXOHSz7ZBLooqjd. 
+[Sun, 17 Jul 2022 16:24:08 GMT] - [discord] (/) successful mint (id: 62d437973ae97b1d1aec386e) undefined | 863940068091625482
+[Mon, 18 Jul 2022 12:41:23 GMT] - [discord] (/) processing a mint initiated from undefined | 863940068091625482
+[Mon, 18 Jul 2022 12:41:31 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: niiSvm6OkpAXuatDsuLB
+[Mon, 18 Jul 2022 12:41:41 GMT] - [firebase] updated information for firebase ID niiSvm6OkpAXuatDsuLB. 
+[Mon, 18 Jul 2022 12:41:42 GMT] - [discord] (/) successful mint (id: 62d554f997276aa00f602147) undefined | 863940068091625482
+[Mon, 18 Jul 2022 17:20:55 GMT] - [discord] (/) processing a mint initiated from undefined | 863940068091625482
+[Mon, 18 Jul 2022 17:21:06 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: 3jInwTPQmCdUBhkUcRPU
+[Mon, 18 Jul 2022 17:21:28 GMT] - [firebase] updated information for firebase ID 3jInwTPQmCdUBhkUcRPU. 
+[Mon, 18 Jul 2022 17:21:28 GMT] - [discord] (/) successful mint (id: 62d5968097276aa00f602159) undefined | 863940068091625482
+[Mon, 18 Jul 2022 20:55:36 GMT] - [discord] (/) processing a mint initiated from undefined | 828736415013404702
+[Mon, 18 Jul 2022 20:55:42 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: tIe9z3TmoSsbOndafhic
+[Mon, 18 Jul 2022 20:55:57 GMT] - [firebase] updated information for firebase ID tIe9z3TmoSsbOndafhic. 
+[Mon, 18 Jul 2022 20:55:58 GMT] - [discord] (/) successful mint (id: 62d5c8cc97276aa00f602163) undefined | 828736415013404702
+[Mon, 18 Jul 2022 20:58:31 GMT] - [discord] (/) processing a mint initiated from undefined | 215990494197448704
+[Mon, 18 Jul 2022 20:58:39 GMT] - [firebase] mint written to (hackathon_ether0) collection with ID: UruUdPZVeAvkNzNcCT09
+[Mon, 18 Jul 2022 20:58:50 GMT] - [firebase] updated information for firebase ID UruUdPZVeAvkNzNcCT09. 
+[Mon, 18 Jul 2022 20:58:50 GMT] - [discord] (/) successful mint (id: 62d5c97d97276aa00f602164) undefined | 215990494197448704

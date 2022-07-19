@@ -1,0 +1,21 @@
+{
+  "_Discord Information": "",
+  "botClientID": "<BOT CLIENT ID>",
+  "botToken": "<BOT SECRET TOKEN>",
+  "botUsername": "CrossMint Minting API",
+  "botLogo": "https://www.crossmint.io/_next/image?url=%2Fassets%2Fcrossmint%2Flogo.png&w=48&q=75",
+  "botEmbedColor": "#4de375",
+
+  "_CrossMint Info": "",
+  "_staging_info": "staging set to true defaults polygon to testnet",
+  "staging": true,
+  "CrossMintAPIKey": "<CROSSMINT MINTING API KEY>",
+  "CrossMintProjectID": "<CROSSMINT PROJECT ID>",
+  "CrossMintAPIEndpoint": "https://staging.crossmint.io/api/2022-06-09/",
+  
+  "_TxnScanners": "",
+  "polygonscan_mumbai": "https://mumbai.polygonscan.com/tx/",
+  "_future_": "",
+  "polygonscan_mainnet": "https://polygonscan.com/tx/",
+  "solscan": "https://solscan.io/tx/"
+}
