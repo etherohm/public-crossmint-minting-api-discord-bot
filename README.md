@@ -27,7 +27,8 @@ This is a standalone bot that can be implemented in any server and configurable 
 ## Configuration
 In the main directory there is a `config.json` folder. Please edit the form to reflect your own parameters. You will need to create a Discord bot on the Discord Developer console. For simplicity we kept fields accessible on this json file but we would like to stress the usage of .env variables for critical tokens and api keys. Finally you'll need an API key and project ID from CrossMint Console. For free mints we use staging @ polygon-mumbai.
 
-If you are not familiar with Discord Apps, please take some time to familiarize yourself with [Discord Dev][discorddev]
+If you are not familiar with Discord Apps, please take some time to familiarize yourself with [Discord Developer][discorddev]
+
 If you are not familiar with CrossMint, please take some time to familiarize yourself with [CrossMint][crossmint] 
 
 ## How do we run this thing?
