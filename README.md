@@ -10,7 +10,7 @@
 ## Implementation Notes
 This is a scaled back version of our bot with no database functionality. We highly suggest integrating a database along with the functions to track mints, users and a whole bunch of things! We also suggest not using the provided .json file to store your API keys on a production machine - environment variables are much safer. 
 
-## Funtionality
+## Functionality
 This is a standalone bot that can be implemented in any server and configurable by a single file. The bot aims to make minting easy for the regular user in a fun way; straight from discord! There are some kinks such as paid networks - but free networks this can help with community interaction, have folks come just to make a mint of their dog, house, photo in spain, whatever. 
 
 /mint `title` `description` `method` `network` `recipient` `image` 
@@ -29,7 +29,7 @@ If you are not familiar with Discord Apps, please take some time to familiarize 
 If you are not familiar with CrossMint, please take some time to familiarize yourself with [CrossMint][crossmint] 
 
 ## How do we run this thing?
-Clone or download the directory. On the command line, run `npm i` to install all dependancies and then `node index.js &` to run this bot. If you run into issues with module not found for node:fs, please run `npm i -D @types/node`
+First and foremost - you must have Node installed as well as NPM. After this, you can clone or download the project. On the command line, run `npm init` to initialize the project and then `npm i` to install all dependancies. Once you have done that, then run `node index.js &` to run this bot (it will run in the background). If you run into issues with module not found for node:fs, please run `npm i -D @types/node`
 
 
 ## Example Run
