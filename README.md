@@ -4,7 +4,7 @@
 
 ## Tech Stack
 - NodeJS
-- DiscordJS
+- DiscordJS (v. 13.9.0)
 - CrossMint Minting API
 
 ## Implementation Notes
@@ -32,7 +32,7 @@ If you are not familiar with Discord Apps, please take some time to familiarize 
 If you are not familiar with CrossMint, please take some time to familiarize yourself with [CrossMint][crossmint] 
 
 ## How do we run this thing?
-First and foremost - you must have Node installed as well as NPM. After this, you can clone or download the project. On the command line, run `npm init` to initialize the project and then `npm i` to install all dependancies. Once you have done that, then run `node index.js &` to run this bot (it will run in the background). If you run into issues with module not found for node:fs, please run `npm i -D @types/node`
+First and foremost - you must have Node installed as well as NPM. After this, you can clone or download the project. On the command line, run `npm init` to initialize the project and then `npm i` to install all dependancies. Once you have done that, then run `node index.js &` to run this bot (it will run in the background). If you run into issues with module not found for node:fs, please run `npm i -D @types/node` If using DiscordJS 14, you have to change your intents structure to match breaking changes.
 
 
 ## Example Run
